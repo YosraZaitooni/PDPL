@@ -98,10 +98,7 @@ Organizations should have procedures for handling data breaches and security inc
 SDAIA is the authority responsible for data governance and supporting the implementation of PDPL in Saudi Arabia.
 
 Official Website:
-     https://sdaia.gov.sa
-
-Data Governance Platform:
-     https://dgp.sdaia.gov.sa
+     https://sdaia.gov.sa/ar/default.aspx
 
 Official Email:
      info@sdaia.gov.sa
