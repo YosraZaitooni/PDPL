@@ -170,6 +170,37 @@ The implemented controls should include:
 Penetration testing contributes to strengthening cybersecurity controls and reducing risks that may affect personal data protected under PDPL.
 
 
+### 9. Third-Party Cybersecurity Management
+
+The organization shall establish cybersecurity requirements within contracts and agreements with external parties that access, process, or store personal data.
+
+The implemented controls should include:
+
+- Defining cybersecurity requirements within contracts and service level agreements (SLAs).
+- Establishing confidentiality obligations through Non-Disclosure Agreements (NDAs).
+- Defining communication and reporting procedures in the event of cybersecurity incidents affecting organizational data or services.
+- Ensuring that third parties comply with applicable cybersecurity and privacy requirements.
+- Periodically reviewing cybersecurity requirements within contracts and agreements.
+
+These controls support the protection of personal data processed by external parties and contribute to maintaining compliance with the Personal Data Protection Law (PDPL).
+
+
+### 10. Cloud Computing and Hosting Security
+
+The organization shall implement cybersecurity requirements for cloud computing and hosting services to ensure the protection of personal data stored or processed by external service providers.
+
+The implemented controls should include:
+
+- Classifying personal data before hosting it in cloud environments.
+- Ensuring that data can be retrieved in a usable format upon termination of cloud services.
+- Verifying compliance with applicable regulatory and legal requirements related to personal data protection.
+- Ensuring logical separation of the organization's cloud environment from other tenants and customers.
+- Periodically reviewing cloud security and hosting requirements.
+
+These measures help protect personal data hosted by third-party providers and support compliance with the Personal Data Protection Law (PDPL).
+
+
+
 | PDPL Requirement | Cybersecurity Practice | Company Policy |
 |-----------------|----------------------|----------------|
 | Protect personal data | Access Control | Data Protection and Privacy Policy |
@@ -180,6 +211,8 @@ Penetration testing contributes to strengthening cybersecurity controls and redu
 | Raise employee awareness | Security Training Programs | Email and Communication Policy |
 | Manage incidents | Incident Response Procedures | Data Protection and Privacy Policy |
 | Identify security vulnerabilities | Penetration Testing | Information Technology Security Policy |
+| Protect personal data shared with external parties | Third-Party Cybersecurity Management | - |
+| Protect personal data in cloud environments | Cloud Computing and Hosting Security | - |
 
 
 
