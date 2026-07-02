@@ -199,3 +199,4 @@ This integration supports regulatory compliance and enhances trust among employe
        This resource provided official guidelines, implementation materials, and supporting documents that helped to understand how organizations can comply with PDPL requirements.
 - NCNICC-1:2025 Cybersecurity Controls.
        Link: https://cdn.nca.gov.sa/api/files/public/upload/721bed5c-5304-497c-a5ac-a92a049e6306_NCNICC-AR-.pdf
+- Information technology Policy And Procedure Manual.
