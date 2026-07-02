@@ -4,146 +4,192 @@
 
 The Personal Data Protection Law (PDPL) is a Saudi regulation that aims to protect individuals' personal data and ensure that organizations process information responsibly and securely.
 
-To achieve compliance with PDPL requirements, companies should integrate cybersecurity controls into their daily operations. Cybersecurity measures help protect personal information from unauthorized access, disclosure, or loss.
+To achieve compliance with PDPL requirements, organizations should integrate cybersecurity controls into their daily operations. Cybersecurity measures support the protection of personal information against unauthorized access, disclosure, modification, or loss.
 
-This document explains how PDPL requirements can be implemented through cybersecurity practices within the company.
+This document explains how PDPL requirements can be implemented through cybersecurity controls within the company.
+
 
 
 ## Relationship Between PDPL and Cybersecurity
 
 PDPL focuses on protecting personal data and individuals' privacy rights, while cybersecurity focuses on protecting information systems, networks, and digital assets.
 
-Both work together to ensure:
+Both contribute to ensuring:
 
 - Confidentiality of personal information.
 - Integrity of stored and processed data.
-- Availability of information when needed.
-- Protection against cyber threats and data breaches.
+- Availability of information when required.
+- Protection against cybersecurity threats and data breaches.
 - Compliance with Saudi regulations and standards.
+
 
 
 ## Applying PDPL Through Cybersecurity Controls
 
-### 1. Access Control
+### 2. Access Control and Identity Management
 
-Access to personal data should be limited according to employees' job responsibilities.
+The organization shall implement identity and access management controls to ensure that personal data is accessed only by authorized personnel.
 
-The company can implement:
+The implemented controls should include:
 
-- Role-Based Access Control (RBAC)
-- Least Privilege Principle
-- Multi-Factor Authentication (MFA)
-- Regular access reviews
+- User authentication through secure username and password management.
+- Multi-Factor Authentication (MFA) for remote access, email services, and external applications.
+- Role-Based Access Control (RBAC).
+- Application of the Need-to-Know Principle.
+- Application of the Least Privilege Principle.
+- Separation of Duties (SoD) for sensitive functions.
+- Management of privileged accounts and administrative access.
+- Periodic review of user identities and access permissions.
 
-These measures help prevent unauthorized access to personal information.
+These controls help prevent unauthorized access and support the protection of personal data in accordance with PDPL requirements.
+
 
 
 ### 2. Information Security
 
-Information security controls are essential for protecting personal data.
+The organization shall implement information security controls to maintain the confidentiality, integrity, and availability of personal data in accordance with PDPL requirements.
 
-The company should implement:
+The implemented controls should include:
 
-- Strong password requirements
-- Antivirus solutions
-- Data encryption
-- System updates and patch management
-- Backup and recovery procedures
-- Firewall protection
+- Strong password policies and Multi-Factor Authentication (MFA) for accounts that process or access personal data.
+- Protection against viruses, malware, and suspicious activities on servers, user devices, and mobile devices using appropriate security technologies.
+- Regular system updates and patch management to address security vulnerabilities.
+- Encryption mechanisms to protect personal and sensitive data during storage and transmission.
+- Backup and recovery procedures to ensure data availability and business continuity.
+- Firewall protection and secure network configurations to prevent unauthorized access.
+- Changing default system settings, including disabling unnecessary services, changing default passwords, and restricting the use of removable media.
+- Centralized clock synchronization using accurate and trusted time sources to support event logging, monitoring activities, and incident investigations.
 
-These controls support the security requirements of PDPL.
+These controls contribute to maintaining the confidentiality, integrity, and availability (CIA) of personal data and support compliance with the Personal Data Protection Law (PDPL).
+
 
 
 ### 3. Bring Your Own Device (BYOD) Security
 
-Employees using personal devices for work should follow security requirements such as:
+The organization shall establish security requirements for personal devices used to access or process company information and personal data.
 
-- Screen lock protection
-- Device encryption
-- Secure Wi-Fi connections
-- Updated operating systems
-- Restricted access to confidential information
+The controls should include:
 
-This helps protect company and personal data stored on mobile devices.
+- Device authentication and screen lock mechanisms.
+- Encryption of business-related data stored on mobile devices.
+- Secure wireless network connections.
+- Regular operating system and application updates.
+- Restriction of access to confidential and sensitive information based on business needs.
+
+These controls help reduce cybersecurity risks associated with the use of personal devices.
+
 
 
 ### 4. Software Management
 
-Software used within the company should be approved by the IT department before installation.
+The organization shall ensure that software used within the company is obtained, approved, installed, and maintained according to established security requirements.
 
-The organization should:
+The controls should include:
 
-- Purchase software from trusted vendors.
-- Verify software licenses.
-- Evaluate open-source software before use.
-- Regularly update installed applications.
+- Approval by the Information Technology department before software installation.
+- Procurement of software from trusted and authorized vendors.
+- Verification and management of software licenses.
+- Security assessment of open-source and freeware applications before use.
+- Regular updates and maintenance of installed software.
 
-These practices reduce cybersecurity risks and support data protection requirements.
+These measures reduce cybersecurity risks and support the protection of personal data.
+
 
 
 ### 5. Physical Security
 
-Physical security measures also contribute to protecting personal data.
+The organization shall implement physical security controls to protect information assets, technical resources, and personal data from unauthorized physical access, loss, theft, or damage.
 
-Examples include:
+The implemented controls should include:
 
-- Restricted access to server rooms.
-- Employee identification cards.
-- Security cameras.
-- Secure storage of confidential documents.
+- Protecting physical access to IT facilities, server rooms, and sensitive electronic equipment through appropriate access control mechanisms.
+- Restricting physical access to information assets, including computers, storage media, printers, and confidential documents.
+- Applying clean desk practices to ensure that sensitive and personal information is not exposed in work areas.
+- Using employee identification cards and visitor management procedures to control access to critical facilities.
+- Deploying surveillance systems (CCTV) where appropriate and protecting surveillance records from unauthorized access or modification.
+- Periodically reviewing physical security requirements and controls to ensure their effectiveness.
 
-Physical protection helps prevent unauthorized access to company assets and information.
+These controls support the protection of personal data and contribute to maintaining compliance with the Personal Data Protection Law (PDPL).
+
 
 
 ### 6. Employee Awareness and Training
 
-Employees should receive regular training on:
+The organization shall establish cybersecurity and privacy awareness programs to ensure that employees understand their responsibilities regarding personal data protection.
 
-- Personal data protection principles.
-- Cybersecurity awareness.
-- Password security.
-- Phishing attacks.
-- Incident reporting procedures.
+Training activities should include:
 
-Human awareness is one of the most important elements in maintaining compliance with PDPL.
+- Personal data protection principles and PDPL requirements.
+- Cybersecurity awareness practices.
+- Password management and authentication mechanisms.
+- Recognition of phishing attacks and social engineering techniques.
+- Incident reporting procedures and responsibilities.
 
-
-### 7. Incident Response Management
-
-The company should establish procedures for handling cybersecurity incidents involving personal data.
-
-The incident response process may include:
-
-1. Identifying the incident.
-2. Reporting the issue.
-3. Containing the threat.
-4. Recovering affected systems.
-5. Documenting lessons learned.
-
-This ensures a rapid and effective response to potential data breaches.
+Employee awareness contributes significantly to maintaining compliance with PDPL and reducing cybersecurity risks.
 
 
-## PDPL and Cybersecurity Mapping
+
+### 7. Incident Response and Cybersecurity Monitoring
+
+The organization shall establish procedures for managing cybersecurity incidents that may affect personal data and ensure compliance with PDPL requirements.
+
+The implemented controls should include:
+
+- Developing and maintaining detailed incident response plans for cybersecurity incidents, including data breaches and ransomware attacks.
+- Establishing escalation procedures and communication channels for reporting incidents.
+- Activating and maintaining cybersecurity event logs on critical information assets.
+- Monitoring and analyzing security events to detect potential cyber threats in a timely manner.
+- Reporting cybersecurity incidents to the relevant authorities when required by applicable regulations.
+- Documenting incidents, corrective actions, and lessons learned to improve future responses.
+- Conducting periodic reviews of incident response procedures and cybersecurity monitoring requirements.
+
+The incident response process should include:
+
+1. Identification and detection of incidents.
+2. Reporting and escalation procedures.
+3. Containment of threats and affected systems.
+4. Recovery and restoration activities.
+5. Documentation of lessons learned and corrective actions.
+
+These measures support the organization's ability to respond effectively to cybersecurity incidents, protect personal data, and maintain compliance with the Personal Data Protection Law (PDPL).
+
+
+
+### 8. Penetration Testing
+
+The organization shall establish and implement cybersecurity requirements for penetration testing activities to evaluate the effectiveness of security controls and identify unknown vulnerabilities.
+
+The implemented controls should include:
+
+- Defining and approving the scope of penetration testing activities.
+- Testing internet-facing services, websites, web applications, mobile applications, email services, and remote access systems.
+- Documenting penetration testing results and remediation plans.
+- Addressing identified vulnerabilities in a timely manner.
+- Reviewing penetration testing requirements periodically to ensure continuous improvement.
+
+Penetration testing contributes to strengthening cybersecurity controls and reducing risks that may affect personal data protected under PDPL.
+
 
 | PDPL Requirement | Cybersecurity Practice | Company Policy |
 |-----------------|----------------------|----------------|
-| Protect personal data | Access Control | Data Protection And Privacy Policy |
+| Protect personal data | Access Control | Data Protection and Privacy Policy |
 | Prevent unauthorized access | MFA and User Management | Information Technology Security Policy |
 | Secure personal devices | Mobile Device Security | BYOD Policy |
 | Use trusted applications | Software Approval Process | Policy for Getting Software |
 | Protect physical assets | Physical Security Controls | Information Technology Security Policy |
-| Raise employee awareness | Security Training Programs | Email And Communication policy |
-| Manage incidents | Incident Response Procedures | Data Protection And Privacy Policy |
+| Raise employee awareness | Security Training Programs | Email and Communication Policy |
+| Manage incidents | Incident Response Procedures | Data Protection and Privacy Policy |
+| Identify security vulnerabilities | Penetration Testing | Information Technology Security Policy |
+
 
 
 ## Conclusion
 
 Integrating PDPL with cybersecurity controls enables organizations to protect personal information more effectively and comply with Saudi regulations.
 
-By implementing access controls, securing devices, managing software, raising employee awareness, and establishing incident response procedures, the company can strengthen both privacy protection and cybersecurity practices.
+By implementing appropriate administrative, technical, and physical safeguards, organizations can strengthen privacy protection, reduce cybersecurity risks, and promote a secure environment for processing personal data.
 
-This integration supports a secure digital environment and promotes trust among employees, customers, and stakeholders.
-
+This integration supports regulatory compliance and enhances trust among employees, customers, and stakeholders.
 
 ## References
 
